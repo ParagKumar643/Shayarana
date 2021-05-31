@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655065257968",
+    "project_id": "shayarana-3b351",
+    "storage_bucket": "shayarana-3b351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655065257968:android:a2d5f82d7088db35aaef35",
+        "android_client_info": {
+          "package_name": "com.bhram.shayaranapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655065257968-qafcha2cdtu9286kb92866thlkgf01be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirUmPZM7iL7mhiE9mmNtn9Wxxl4ickjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655065257968-qafcha2cdtu9286kb92866thlkgf01be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
